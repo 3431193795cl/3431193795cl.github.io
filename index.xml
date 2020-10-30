@@ -2,31 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JerryMouse</title>
-    <link>https://3431193795cl.github.io/</link>
+    <link>http://example.org/</link>
     <description>Recent content on JerryMouse</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2020 10:54:17 +0800</lastBuildDate><atom:link href="https://3431193795cl.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>数据结构一</title>
-      <link>https://3431193795cl.github.io/post/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/</link>
-      <pubDate>Fri, 30 Oct 2020 10:54:17 +0800</pubDate>
-      
-      <guid>https://3431193795cl.github.io/post/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/</guid>
-      <description>第一章 绪论 主要研究内容：  计算机要处理的数据本身 数据的各种逻辑关系（逻辑结构）和存储表示（物理结构），以及他们之间的关系 对各种结构定义相适应的各种运算 设计出相应的算法，分析算法效率  数据结构 相关术语：   数据（data）：所有能够被计算机识别的符号集合。
- 识别：包括输入、输入、存储、处理、显示 符合：数字、字母、汉字、语音、图形、图像    数据对象（data object）：数据对象是具有相同性质的数据元素的集合，是数据的子集
-  数据元素（data element）：
- 是数据（集合）中的一个“个体” 是数据结构中讨论的基本单位    数据项（data item）：是数据元素中讨论的最小单位，数据元素可以是数据项的集合
- 数据、数据对象、数据元素、数据项，这四个概念他们相互是集合与子集的关系     数据结构：
-  带结构的数据元素的集合，如：
-  用集合的行式描述，数据结构就是一个二元组：
-  ​ D S=(D,R)
-  其中D是数据元素的集合，R是D上关系的集合
-    简而言之，数据元素和其相互关系称为数据结构
-  数据结构由一个四元组来表示：
-Data_Structure = （D,L,S,O）
- D： Data是数据元素的有限集，是存储和操作的对象； L： Logical Structure是数据元素集合D中数据元素之间客观存在的关系的有限集，称为逻辑结构 S： Storage Structure是数据元素集合D与数据元素之间的关系集合L在计算机当中的存储表示，称为存储结构（物理结构） O： Operation是在数据元素集合D上规定的一组操作  数据元素、数据元素之间的逻辑关系、逻辑关系在计算机中的存储表示，以及所规定的操作这四部分</description>
-    </item>
-    
+    <language>zh-CN</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -3,26 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://3431193795cl.github.io/</loc>
-    <lastmod>2020-10-30T10:54:17+08:00</lastmod>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://3431193795cl.github.io/post/</loc>
-    <lastmod>2020-10-30T10:54:17+08:00</lastmod>
+    <loc>http://example.org/</loc>
   </url>
   
   <url>
-    <loc>https://3431193795cl.github.io/post/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/</loc>
-    <lastmod>2020-10-30T10:54:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://3431193795cl.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://3431193795cl.github.io/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>
